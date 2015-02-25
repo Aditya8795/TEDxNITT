@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TEDxNITT</string>
+    <string name="title_section1">Shedule</string>
+    <string name="title_section2">Live Update</string>
+    <string name="title_section3">Live Twitter Feed</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash_screen">TEDxNITT</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_home">TEDxNITT</string>
+    <string name="login">Login</string>
+    <string name="others">Others</string>
+    <string name="tedxnitt">TEDxNITT</string>
+    <string name="subheading1">For registered users</string>
+    <string name="subheading2">For others</string>
+    <string name="title_activity_login">Login</string>
+    <string name="header">heading image</string>
+
+</resources>
